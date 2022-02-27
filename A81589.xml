@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Doctrine of the Presbyterians reduced into practise. Whereby it is demonstratively proved, that it can neither convert an infidel, amend a profane person, nor comfort an a[ffli]cted. That it overturneth the profitable preaching of the Word, the use of the sacraments, and exercise of prayers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81589</idno>
+            <idno type="STC">Wing D1774A</idno>
+            <idno type="STC">ESTC R174682</idno>
+            <idno type="EEBO-CITATION">47682889</idno>
+            <idno type="OCLC">ocm 47682889</idno>
+            <idno type="VID">172845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2652:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Doctrine of the Presbyterians reduced into practise. Whereby it is demonstratively proved, that it can neither convert an infidel, amend a profane person, nor comfort an a[ffli]cted. That it overturneth the profitable preaching of the Word, the use of the sacraments, and exercise of prayers.</title>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[Pri]nted in the Year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: title page stained and torn, with loss of text. Bracketed material conjectured by cataloger.</note>
+                  <note>Reproduction of original in: Christ College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature.</term>
+               <term>Presbyterianism --  Doctrines.</term>
+               <term>Predestination --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172845:1" rendition="simple:additions"/>
+            <p>THE DOCTRINE OF THE <hi>PRESBYTERIANS</hi> Reduced into Practiſe.</p>
+            <p>Whereby it is demonſtra<g ref="char:EOLhyphen"/>tively proved, that it can neither convert an <hi>Infidel,</hi> amend a profane <hi>Perſon,</hi> nor comfort an <hi>Afflicted.</hi>
+            </p>
+            <p>That it over-turneth the profitable Preaching of the Word, the uſe of the Sacraments, and exerciſe of Prayers.</p>
+            <p>
+               <hi>LONDON<g ref="char:punc">▪</g>
+               </hi> Printed in the Yeer, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172845:2"/>
+            <pb n="1" facs="tcp:172845:2"/>
+            <head>THE DOCTRINE of the <hi>Presbyterians</hi> reduced into Practiſe.</head>
+            <p>SEeing the Doctrine of the Goſpel tyeth not it's Diſciples unto bare ſpeculation and meer knowledge of the Hiſtory; but alſo bindeth them to the practiſe, and edification of their neighbours; every man will ſay, that the uſe thereof conſiſteth principally in 3 things, which every Chriſtian, but more eſpecially each faithfull Paſtor ought to pro<g ref="char:EOLhyphen"/>cuce ſo far fourth as lyeth in him: whereof the firſt is,
+<list>
+                  <item>1. The converſion of a ſtranger to the faith.</item>
+                  <item>2. The amendment of a bad living Chri<g ref="char:EOLhyphen"/>ſtian.</item>
+                  <item>3. The conſolation of the ſick, and other<g ref="char:EOLhyphen"/>wiſe afflicted.</item>
+               </list>
+            </p>
+            <p>If therfore the Doctrine of the Presbyterian party cannot ſerve to any of theſe 3. ends, nay if it be directly contrary thereunto, no Chri<g ref="char:EOLhyphen"/>ſtian can doubt but that it is quits different
+<pb n="2" facs="tcp:172845:3"/>from the Doctrine of the holy Scripture, which is given by inſpiration of God, <hi>and is profitable for doctrine, for reproof, for correction, for inſtruction in righteouſneſſe.</hi> 2 Tim. 3.16.</p>
+            <p>The principall points &amp; Doctrines of whom are contained in theſe 5. Articles.</p>
+            <p n="1">1. That God by an abſolute decree hath elected and choſen to life a very ſmall number of perſons, without the leaſt regard either of their faith or obedience: and excluded the reſt of mankinde from all ſaving grace, deſtined by the ſame decree unto eternall damnation, without any conſideration either of the incre<g ref="char:EOLhyphen"/>dulity or impenitency.</p>
+            <p n="2">2. That Jeſus Chriſt dyed for no other than onely the elect; not having the leaſt intention of his own, or commandment of his Father, to make a propitiation for the ſins of the whole world.</p>
+            <p n="3">3. That by the ſin of <hi>Adam</hi> his whole po<g ref="char:EOLhyphen"/>ſterity hath loſt their free-will, being ſubject by an inevitable neceſſity to do, or leave un<g ref="char:EOLhyphen"/>done that which every man acteth or omit<g ref="char:EOLhyphen"/>teth, be it good or evill, being thereunto pre<g ref="char:EOLhyphen"/>deſtinated by the eternall and efficacious de<g ref="char:EOLhyphen"/>cree of God.</p>
+            <p n="4">4. That God to draw his elect out of the corrupt maſſe predi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth a faith in them, by a
+<pb n="3" facs="tcp:172845:3"/>power equall to that whereby he created the world, and raiſeth up the dead. So that they to whom he giveth his grace are not able to reject it; and that the reprobates cannot ob<g ref="char:EOLhyphen"/>tain it, although it be offered them in the preaching of the Goſpel.</p>
+            <p n="5">5. That they who have once received this grace by faith can never fall totally or finally, notwithſtanding the moſt enormous ſins that they can commit.</p>
+            <p>Let us now ſee what profit ariſeth from this Doctrine, and how it ſerveth to the 3 ends and uſes here above propoſed.</p>
+            <p>Firſt then if he that is of that opinion will go about to convert an <hi>Infidel,</hi> the <hi>Infidel</hi> will tell him, that he knoweth not how to love, nor yet beleeve that God to be true and juſt, which onely for his own pleaſure hath deſtined the greateſt part of mankinde to everlaſting tor<g ref="char:EOLhyphen"/>ments without the leaſt conſideration of any ſin, or at leaſt onely for the ſin of one man; who notwithſtanding obtained pardon for himſelf after he had wilfully committed it. That herein he ſeeth not the leaſt track either of goodneſſe, or wiſdom, or juſtice to uſe them ſo cruelly that are deſtitute of certain graces and benefits which this God hath never wil<g ref="char:EOLhyphen"/>led to have given them, and which theſe mi<g ref="char:EOLhyphen"/>ſerable
+<pb n="4" facs="tcp:172845:4"/>wretches could obtain no other way, and <hi>to whom by an irrevocable decree he hath impo<g ref="char:EOLhyphen"/>ſed a neceſſity, as well of ſinning without having any power to repeat, as of periſhing eternally:</hi> which are the words of one of their own Doctors. That it cannot be that God which in his Word doth make himſelf the lover of mankinde, who would that all men ſhould be ſaved, and that none ſhould periſh, who ſweareth by himſelf that he will not the death of a ſinner, but that he repent and live, ſhould keep them from re<g ref="char:EOLhyphen"/>penting, and being ſaved.</p>
+            <p>Yea, he will the more abhor that Doctrine, when it perſwadeth that God uſeth double dealing, and hath a double will; the one ex<g ref="char:EOLhyphen"/>terior, whereby he inviteth the ſinner unto grace, making as though he were deſirous of his ſalvation; the other interior, and bidden, which is alwayes accompliſhed, whereby he Ieadeth him by inevitable means as well into ſin, as to damnation.</p>
+            <p>The <hi>Infidel</hi> will ſay to his convertor, that <hi>Homer</hi> were ſooner to be beleeved than he, when he ſaith, that he who ſpeaketh contrary to what he thinketh ought to be held as an enemy<g ref="char:punc">▪</g> and hated as the gates of hell: and that in the judgement of theſe men, the moſt wic<g ref="char:EOLhyphen"/>ked hypocrite and traytor in the world doth
+<pb n="5" facs="tcp:172845:4"/>moſt lively repreſent the Image of that God which he ſpeaks of.</p>
+            <p>Now if this new Evangeliſt do tell him, that the paſſages of Scripture which ſay, that God would have <hi>all</hi> men to be ſaved, ought to be underſtood onely of ſome of every Nation and condition; the <hi>Infidell</hi> will reply, that then the Scripture ought with much more reaſon to ſay, that God would have all men to be damned, becauſe that in every Nation and condition there are far more of theſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han of them; and that in all reaſon the denomination ſhould be taken from the greateſt number.</p>
+            <p>But then this Catechiſt will bring another diſtinction, and ſay, how that God indeed wil<g ref="char:EOLhyphen"/>leth the converſion and ſalvation of all men; yet onely ſo as he approveth of thoſe things in themſelves, and not that he giveth all men the means neceſſary to obtain them. Our Ca<g ref="char:EOLhyphen"/>techumeniſt will be the more aſtonied, and de<g ref="char:EOLhyphen"/>mand of him further, how it is poſſible that God by an abſolute and irrevocable decree ſhould have ordained that thoſe things which he naturally deteſteth and hateth, ſhould come to paſſe; and yet that thoſe things which he loveth and liketh, ſhould not. And if it were poſſible, his Catheciſt will make him turn <hi>Ma<g ref="char:EOLhyphen"/>nichee,</hi> and think that this evill beginning, or
+<pb n="6" facs="tcp:172845:5"/>evill God that is the author of all evill, hath continued warre with that God who loveth righteouſneſſe, and hateth wickedneſſe; and that an honeſt man ſhould have juſt reaſon to be angry with him that did interpret his words in that manner, that the Catheciſt doth thoſe of holy Scripture, whereby it followeth that God is the author of all wickedneſſe that hath been, is, or ſhall be in the world.</p>
+            <p>But then again the other will reply, that he confoundeth the ſin with the act; and that God cauſeth the ſecond, but not the firſt. Whereas the other perceiving the myſtery, wil again tell him, that the greateſt Doctors have written that God hath predeſtinated men as well to the means, as to the end: and that the act is not the cauſe of damnation, in that it is the act but onely in that it is the ſin: and that the miſerable men which are under the decree of reprobation, are no more able to abſtain from ſin, than to ſhun their damnation.</p>
+            <p>The Catechumeniſt will further adde, that if the Goſpel according to this Doctrine be preached unto the moſt, not to any other end but onely for their greater damnation, that he will no longer hearken to it: ſeeing it is moſt likely that he is of the greateſt number, and not of the ſmall; that he remembers he
+<pb n="7" facs="tcp:172845:5"/>hath read in ſome Authors, that God directs his Word to them, that thereby he might make them more deaf; and ſheweth them the light of the Goſpel to blinde their eyes; and that therefore they who never heard the Word, are leſſe miſerable, or ſhall fare better then they who could not therefore beleeve, becauſe God would not give them grace ſuf<g ref="char:EOLhyphen"/>ficient to beleeve.</p>
+            <p>Finally, our Catechumeniſt will tell him, that if the decree of God be ſo, as the Cate<g ref="char:EOLhyphen"/>chiſt propoſeth, it muſt needs follow, that they both labour in vain, ſeeing that every man before he is come into the world is al<g ref="char:EOLhyphen"/>ready inrolled in one of the two Regiſters, ei<g ref="char:EOLhyphen"/>ther life or death; and that it is no more poſ<g ref="char:EOLhyphen"/>ſible to be blotted out of the one or the other, than it is for God to deny himſelf.</p>
+            <p>The Catechiſt then fearing that this Proſe<g ref="char:EOLhyphen"/>lyte will fall from him, doth tell him further, that it is not for us to ſearch into theſe ſecrets, that there is no viſible mark whereby to diſ<g ref="char:EOLhyphen"/>cern the elect from the reprobate; and that the elect themſelves know not the election be<g ref="char:EOLhyphen"/>fore their calling, which is deferred ſome<g ref="char:EOLhyphen"/>times unto the laſt houre of their lives, that every man ought to be ready to anſwer and obey God when he calleth. That there are
+<pb n="8" facs="tcp:172845:6"/>none but profane and reprobates who ſay, that men labour in vain, ſeeing that they whom God hath elected to ſalvation are like<g ref="char:EOLhyphen"/>wiſe elected to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith and good works.</p>
+            <p>But theſe things will the more provoke our Catechumeniſt, for he will ſay, or at leaſt think, that it is no matter to be able to diſtin<g ref="char:EOLhyphen"/>guiſh in particular the elect from the repro<g ref="char:EOLhyphen"/>bates; and that it ſufficeth to know in generall that every one is neceſſarily either of the one, or other. And ſeeing that no man is able to ſo any thing before his vocation and converſion which may avail him, that therefore we ſhould defer all things till then; and ſeeing that our ſaving vocation worketh with ſuch a force that it is impoſſible to diſobey, it would be extreame folly to haſten the execution of Gods will by humane induſtry and ſtudy; yea and that our prayers too were likewiſe hereto vain, in as much as we cannot make any thing pleaſing to God without faith, which is never to be had before our calling. That the queſti<g ref="char:EOLhyphen"/>on is not of the quality of him who ſo ſpeak<g ref="char:EOLhyphen"/>eth, whether he be profane, or no; but of the quality of the doctrine which neceſſarily makes him to be ſo.</p>
+            <p>Let us now ſee whether this doctrine have more power over a debauched Chriſtian to
+<pb n="9" facs="tcp:172845:6"/>bring him to repentance and amendment of life. To him the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore he will ſhew the filthines of his ſin, the ſcandal to his neighbour, the ingratitude to his Creator and Redeemer, the menaces of the Law, and the vengeance of God prepared for all Impenitents, &amp;c. Where<g ref="char:EOLhyphen"/>upon this man having more knowledge of the doctrine of the Presbyterians, than a good conſcience will ſend his cenſurer to the ma<g ref="char:EOLhyphen"/>ximes and principles of them; and will much muſe how the other ſhould be ignorant that every thing which is done by men on earth, be it good or bad, cometh not to paſſe but by the efficacious decree or ordinance of God, who doth all in all. That the firſt cauſe doth in ſuch manner move and direct all the ſecond cauſes (among which is the will of man) that they cannot otherwiſe ſtir, than as they are ſtirred. That he is very ſorrie that he is gi<g ref="char:EOLhyphen"/>ven to ſuch and ſuch a vice; but his comfort is, that he knows that God would have it ſo by his ſecret will, that God hath predeſtina<g ref="char:EOLhyphen"/>ted him hereunto, having as much willed and procured the treaſon of <hi>Judas,</hi> as the ſalvation of St. <hi>Paul.</hi> That he hath no power to retain grace, when he that gave it will take it away: that the Spirit bloweth where it liſteth, in<g ref="char:EOLhyphen"/>ſpireth whom it will, with-draweth when it
+<pb n="10" facs="tcp:172845:7"/>pleaſeth, and when it pleaſeth returneth again. And if it return with intention of his amendment, it ſhall be as impoſſible for him to withſtand or elſe delay, as it is now to work or haſten it. That it is not for him to preſcribe the time and houre of his conver<g ref="char:EOLhyphen"/>ſion, wherein a wicked man doth no more than doth a dead man in his reſurrection. That God is able to quicken him, and endue him with his Spirit, though he were already dead foure dayes, and ſtinking in the grave as <hi>Lazarus:</hi> yea if that perhaps ſhall not be untill the laſt houre of the day, yet God gi<g ref="char:EOLhyphen"/>veth not the grace to cry, <hi>Abba, Father.</hi> That he ſo abhorreth the Doctrine of thoſe who are ſtyled <hi>Independents,</hi> that he dareth not uſe the leaſt endeavour to do well, for fear of ob<g ref="char:EOLhyphen"/>ſcuring that grace which worketh irreſiſta<g ref="char:EOLhyphen"/>bly, and attributing any thing to the will of man.</p>
+            <p>Yet he remembers that he had ſometimes good motions proceeding doubtleſſe from the Spirit of God, which hath given him the truth, faith that can never fail; and that for the preſent he is like unto the trees in Winter, which ſeem dead though they are alive, being of the number of the elect. And his ſin it ſelf how enormous ſo ever worketh together to
+<pb n="11" facs="tcp:172845:7"/>his ſalvation, yea and that he hath already obtained pardon for it. That his Cenſurer cannot deny it, ſeeing that he exhorteth him to repentance, which is nothing worth with<g ref="char:EOLhyphen"/>out faith; no more than faith if it beleeve not the remiſſion of all ſins both done, and to be done, although he were of the number of the reprobates: a thing which he will not affirm for fear of being ſo held indeed. Yet notwith<g ref="char:EOLhyphen"/>ſtanding his Cenſurer could again nothing by it, who by his exhortation and threatnings could not any way alter the decree of heaven, but onely moleſt him with the torments of hell, and to ſtir up a worme in his conſcience to gnaw him to no purpoſe. If hereupon the Cenſurer proceed and tell him, that although the Spirit alone doth immediately produce repentance in the heart of a ſinner, yet not<g ref="char:EOLhyphen"/>withſtanding that exhortations and threat<g ref="char:EOLhyphen"/>nings are the means and inſtruments which it uſeth in the work. The other will demand further of him the explication of his ſaying therein, obſerving a manifeſt contradiction, in that on the one ſide repentance is immedi<g ref="char:EOLhyphen"/>ately attributed to the holy Ghoſt; and on the other ſide, theſe Scriptures and threatnings are held as means, and inſtruments of this work. The operation being not there imme<g ref="char:EOLhyphen"/>diate
+<pb n="12" facs="tcp:172845:8"/>where the means are uſed. That if theſe means of exhortation be neceſſarie, or at leaſt if it be ordinarily required in this operations, how can it be that they who reject it, and re<g ref="char:EOLhyphen"/>ſiſt the Inſtrument, do not likewiſe (nay can<g ref="char:EOLhyphen"/>not) reſiſt the principall cauſe which is the holy Ghoſt? He that will not ſuffer the raſor the neceſſary inſtrument of his cure, doth not he therein alſo reject the Chiru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion?</p>
+            <p>The Cenſurer will ſay, that the elect reject neither the one nor the other. The holy Ghoſt piercing the eare to make it hear, and opening the heart to make it receive thoſe admoniti<g ref="char:EOLhyphen"/>ons which are altogether vain and unprofita<g ref="char:EOLhyphen"/>ble, untill the holy Ghoſt doth ſo work with them. Thereupon the other will make him to confeſſe, that the Word preached for the moſt part is deſtitute of that operation of the Holy Ghoſt, as it appeareth by the miſprixion that the moſt part make of it, which cannot be when the efficacy of the Spirit doth accom<g ref="char:EOLhyphen"/>pany it. It followeth then, that the whole Miniſtery is but a fancy or dance, no more co<g ref="char:EOLhyphen"/>operating to mans converſion, than the clay which our Saviour applyed to the eyes of the blinde did unto his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight; or the ſole voice calling upon <hi>Lizarus</hi> made him to riſe out of the grave. He will alſo demand of him, why
+<pb n="13" facs="tcp:172845:8"/>it is (ſeeing Nature doth nothing in vain) that the Author of Nature and of Grace did appoint the Miniſtery of the Word; and why thoſe things which the Cenſures attributeth onely to the Spirit are yet notwithſtanding in the Scriptures attributed to the Word preached? And how it is, that thereby we are ſaid to be begotten, renewed, nouriſhed, edified, purified, &amp;c. Whereas the new Do<g ref="char:EOLhyphen"/>ctrine of the <hi>Presbyterians</hi> leaveth it in no other function than to ſerve as an object, and repre<g ref="char:EOLhyphen"/>ſent that without, which the Spirit hath al<g ref="char:EOLhyphen"/>ready wrought within, as well in the wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, as underſtanding, without any co-operation of the Word, not onely unprofitable without the Spirit, but alſo dangerous, and aggravating the damnation of its contemners, although it were impoſſible to receive and cheriſh it, even as it is impoſſible for them to adde the efficacy of the Spirit which is not in their power.</p>
+            <p>There now remains no other inſtance for our Cenſurer, than to exhort this profane fellow to pray unto God, that he would be pleaſed to give the grace to leave his lewd<g ref="char:EOLhyphen"/>neſſe, promiſing that if he pray as he ought to do, he ſhall be heard, and receive what he de<g ref="char:EOLhyphen"/>amandeth<g ref="char:punc">▪</g>
+            </p>
+            <pb n="14" facs="tcp:172845:9"/>
+            <p>But hereupon this profane man, being well inſtructed in the Doctrine of the <hi>Presbyterians,</hi> will demand of him, how it is poſſible to pray as we ought to do if God giveth not grace be<g ref="char:EOLhyphen"/>fore-hand; and that alſo ſo effectually, that it ſhould be impoſſible for him not to pray. And therefore ſeeing that he faileth ſo to do, the Cenſurer muſt needs ſay, that God will be no more invoked on by him than he hath gi<g ref="char:EOLhyphen"/>ven him grace whereby to do it. And that it is no leſſe eaſie to perceive that God ſent not this Corrector to him with an intention to better him by his Miniſtery, when he finds more confuſion in the doctrine of the ſpeaker, than amendment in the hearer; to whom he bringeth either the pillow of <hi>Epicurus</hi> to lull him aſleep in his ſecurity; elſe the haltar of deſpair, wherewith he may hang himſelf as <hi>Judas.</hi>
+            </p>
+            <p>But above all, this Profaner will finde yet one more ſingular help to the flattering of his fleſh, by the Anſwer which the Presbyterians do uſually make unto thoſe who ask in what caſe <hi>David</hi> would have been had he dyed in his adultery: Whereunto they ſay, that it was impoſſible for <hi>David</hi> to have dyed before he repented; becauſe that after this he was to get a ſon from whom the Meſſias was to de<g ref="char:EOLhyphen"/>ſcend.</p>
+            <pb n="15" facs="tcp:172845:9"/>
+            <p>But hereunto our Profaner will reply, that the impoſſibility of dying before repentance, according to the Doctrine of the Presbyteri<g ref="char:EOLhyphen"/>ans, is founded upon the generall promiſe made to all the elect; and not upon any par<g ref="char:EOLhyphen"/>ticular promiſe to <hi>David</hi> touching the Meſſias, whom God had ſent into the world by other means, had he foreſeen the impenitency of <hi>David,</hi> as he foreſaw his repentance.</p>
+            <p>That, if the Presbyterians be not deceived, he is as ſure not to dye without repentance, as was <hi>David.</hi> So that according to that doctrine, the true means to avoid death, is to commit, and ever continue in ſome mortall ſin. It be<g ref="char:EOLhyphen"/>ing impoſſible for him to be killed in adulte<g ref="char:EOLhyphen"/>ry, or periſh in any other ſin, before having firſt made his reconciliation with God, who is not angry for ever (to ſpeak in the language of the Presbyterians) but onely with the re<g ref="char:EOLhyphen"/>probates.</p>
+            <p>See then the invention of immortalitie found out to ſatisfie the <hi>Parace<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſians,</hi> and ſuch like fools, who ſearch for this remedie againſt death in dangerous and naturall cauſes. Our Presbyterians ſheweth an Antidote in a mor<g ref="char:EOLhyphen"/>tall cauſe of ſo facile and agreeable execution to the facile auditors, that the Poets <hi>Ambr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſia,</hi> and <hi>Mede's</hi> charms are fabulous unto it.</p>
+            <pb n="16" facs="tcp:172845:10"/>
+            <p>Now then our Corrector will either deſiſe his enterpriſe in reforming this mans deboiſt<g ref="char:EOLhyphen"/>neſſe, or elſe forſake his own principles, and correct his Doctrine.</p>
+            <p>But perhaps he will acquit himſelf far bet<g ref="char:EOLhyphen"/>ter, in undergoing the office of a Comforter to one that is afflicted, than he did of playing the Convertor of the Infidel, or the correcto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the profane Chriſtian.</p>
+            <p>The ground of all comfort and conſolati<g ref="char:EOLhyphen"/>on to each afflicted ſoul hath been eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thought and found in the death and paſſion of our Lord and Saviour Jeſus Chriſt; where<g ref="char:EOLhyphen"/>by having ſatisfied the juſtice of God his Fa<g ref="char:EOLhyphen"/>ther, he obtained reconciliation for all man<g ref="char:EOLhyphen"/>kinde, actually applyable to all thoſe, who acknowledging the infiniteneſſe of the benefit do thereupon embrace the author of it with a true and lively faith. Neither can our Com<g ref="char:EOLhyphen"/>forter finde any other foundation whereby to conſolate and aſſure his Patient againſt the terrours of Gods juſtice, the condemnation of the Law, and accuſation of his own conſci<g ref="char:EOLhyphen"/>ence. But the ſick, otherwiſe afflicted, can ne<g ref="char:EOLhyphen"/>ver make the true foundation of Gods Word agree with the falſe foundation of the Preſ<g ref="char:EOLhyphen"/>byterians, <hi>viz.</hi> That Chriſt dyed not but for a very ſmall number of perſons already elect<g ref="char:EOLhyphen"/>ed
+<pb n="17" facs="tcp:172845:10"/>unto ſalvation by his heavenly grace; who in his decree did no more conſider the death of his Son, than the faith of the elect.</p>
+            <p>How ſhall I truly know, will the Patient then ſay, that I am rather of the ſmall num<g ref="char:EOLhyphen"/>ber than of the great? ſeeeing that you my Paſtor and Comforter, will not that the pro<g ref="char:EOLhyphen"/>miſes of ſalvation are made univerſally to all; and thoſe places of Scripture which ſeem ge<g ref="char:EOLhyphen"/>nerall according to your opinion, are to be re<g ref="char:EOLhyphen"/>ſtrained onely to the univerſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of the elect; and that in all the reſt of the holy Scripture there is no more ſpeciall promiſe, nor men<g ref="char:EOLhyphen"/>tion of my ſelf than of any other, and who beſides the holy Scripture have no revelation whether of Angel or Prophet to aſſure me thereof.</p>
+            <p>When our Saviour ſaid to his Apoſtles, <hi>O e of you ſhall etray me,</hi> although this concerned but one of them, yet were they all exceeding<g ref="char:EOLhyphen"/>ly troubled therewith. So the were there but a very ſmall number of reprobates for whom, as you ſay, Chriſt dyed not, yt ſhould I have no juſt reaſon but to fear, and think that I were one of them much rathe, ſeeing their number is ſo great.</p>
+            <p>Whereupon our Conſolate will alledge unto him the judgement of carity, which
+<pb n="18" facs="tcp:172845:11"/>preſumeth well of every one, ſeeing that God doth as little reveal the decree of reprobation, as that of election. But his Patient will not there finde the leaſt aſſurance; and that for many Reaſons.</p>
+            <p n="1">1. Becauſe this judgement of charity, if a man apply it generally to all, will neceſſarily prove falſe. The Comforter not daring to maintain theſe Propoſitions together, that Chriſt dyed for all men, and that he dyed but for a very ſmall number.</p>
+            <p n="2">2. The judgement of charity hath never any place, when he muſt have the certitude of faith to beleeve, or do any thing with a good conſcience.</p>
+            <p n="3">3. The judgement of charity extends it ſelf no farther then to the ſuppreſſing of fini<g ref="char:EOLhyphen"/>ſter opinions, and ſuſpicions lightly concei<g ref="char:EOLhyphen"/>ved againſt our neighbours, whoſe infirmities it commanden us to conceal, without prea<g ref="char:EOLhyphen"/>ching any falhood to him.</p>
+            <p>When I ſee my one preſent himſelf at the Table of our lord, in the judgement of chari<g ref="char:EOLhyphen"/>tie I think hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be prepared as he ought, ſeeing nothin to the contrary. But that they who are thus well prepared, do there partici<g ref="char:EOLhyphen"/>pate to their ſouls health, this they beleeve with the judement of faith, which medleth
+<pb n="19" facs="tcp:172845:11"/>with nothing that is or may be falſe. So like<g ref="char:EOLhyphen"/>wiſe when I ſee a ſick-man as he is giving up the ghoſt, calling upon Jeſus Chriſt, I beleeve in charitie that he dyeth like a Chriſtian; But that God maketh them happy who depart in the true faith of our Lord and Saviour, this I beleeve with the certitude of faith, and in ſuch a manner as it is impoſſible to be decei<g ref="char:EOLhyphen"/>ved. Which yet notwithſtanding both may, and alſo doth happen in the judgement of charity.</p>
+            <p>In a word, the judgement of charity hath no place but in thoſe things onely which are between man and man. But when there is queſtion of the divine promiſe that hath foundation in divine truth, there is then re<g ref="char:EOLhyphen"/>quired a certitude of faith, wherein there is nothing to be found that is either falſe or doubtfull.</p>
+            <p>If any man ſay, that we ſhould preſume every one to be of the number of the elect, un<g ref="char:EOLhyphen"/>till he appear to be the contrary. The Patient will anſwer, that by outward appearance we can know nothing either of election or repro<g ref="char:EOLhyphen"/>bation. And that therefore it is not ſufficient to preſume, but that alſo we muſt have a full and perfect aſſurance that Chrit died for him whom we go about to comfort: which aſſu<g ref="char:EOLhyphen"/>rance
+<pb n="20" facs="tcp:172845:12"/>is not to be found in the Presbyterian doctrine, ſeeing it denyeth that Chriſt dyed for all men.</p>
+            <p>The Miniſter or Comforter will then ask the Patient, if he never felt the witneſſe of his adoption which the Spirit of God beareth to the ſpirit of the elect; and if he be aſſured that he had faith once, he may be certain that he hath it ſtill, notwithſtanding the ſmall fruit that it produceth.</p>
+            <p>Whereunto the Patient will well reply, that <hi>Calvin</hi> himſelf doth much trouble and ob<g ref="char:EOLhyphen"/>ſence this certitude in his Initi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions: <hi>l.</hi> 3. <hi>c.</hi> 2. <hi>ſſ</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. The heart of man (ſaith he) hath ſo many ſecret corners of vanity, is full of ſo ma<g ref="char:EOLhyphen"/>ny hiding holes of lying, is covered with ſo guilfull hypocriſie, that it oft deceiveth him<g ref="char:EOLhyphen"/>ſelf, perſwadeth him that he hath true faith, when he hath not.</p>
+            <p>If the Patient acknowledge that he never felt this teſtimony in his heart, his Comforter will anſwer him in the ſame manner as he formerly did the Profane, when he took upon him the office of a Cenſurer and Corrector, <hi>viz.</hi> how that all are not called the ſame houre.</p>
+            <p>But if the Patient do then ask him ſome aſſurance that he ſhall be thus efficaciouſly
+<pb n="21" facs="tcp:172845:12"/>called before his death; the Comforter will finde none for him. Onely he will tell him, that aſſuredly Chriſt dyed for him if ſo he be<g ref="char:EOLhyphen"/>leeve in him. Wherein he will ſhew himſelf ei<g ref="char:EOLhyphen"/>ther a prevaricator of his own ſide, and an overthrower of the Presbyterian Doctrine, or elſe that he is deprived of common ſenſe.</p>
+            <p>For if he give the ſelf ſame conſolation to all that are ſick, to all that are afflicted, yea even to thoſe who for the greateſt offences are led to execution; and if this conſolation be founded on the truth, doth it not then follow, that in truth Chriſt dyed for all, and everie one?</p>
+            <p>And if he ſo underſtandeth it, that this be<g ref="char:EOLhyphen"/>cometh true by the faith, which the Patient addeth to the diſcourſe of the Miniſter, he hath loſt his ſenſe in affirming, That the ob<g ref="char:EOLhyphen"/>ject of faith, or thing propoſed to be beleeved, receiveth it's truth, and dependeth on the conſent and belief of man; who by this appro<g ref="char:EOLhyphen"/>bation and faith hath no more power to make that true which is falſe in it ſelf; than to make that falſe by his incredulity which in it ſelf is true. The incredulitie of man may de<g ref="char:EOLhyphen"/>prive him of the benefit of this death; yet can<g ref="char:EOLhyphen"/>not it make that Chriſt ſuffered not this death, to teſtifie his love unto all mankinde
+<pb n="22" facs="tcp:172845:13"/>univerſally, even of all that are bound to be<g ref="char:EOLhyphen"/>leeve in him; and yet no man bound to be<g ref="char:EOLhyphen"/>leeve that which is falſe.</p>
+            <p>The Apoſtle ſaith, that God will ſend the ſpirit of errour upon them that have not re<g ref="char:EOLhyphen"/>ceived the love of the truth. And yet accord<g ref="char:EOLhyphen"/>ing to the Presbyterian Doctrine, he would have a man firſt beleeve that which is falſe, and then afterwards for having beleeved this falſhood, he ſhall be puniſhed with the ſpirit of errour for beleeving of a lye.</p>
+            <p>See then if this be not a labyrinth of pro<g ref="char:EOLhyphen"/>digious D vinitie, which turneth obedience into puniſhment. For if theſe men ſpeak true, and that Chriſt not dead for thoſe that be<g ref="char:EOLhyphen"/>leeve not on him; how can they deſerve to be puniſhed for not having beleeved that which is falſe? and they that have obeyed his Com<g ref="char:EOLhyphen"/>mandment in beleeving of his death, how ſhould they ſuffer the puniſhment due unto diſobedient and incredulous, which is to be<g ref="char:EOLhyphen"/>leeve lying?</p>
+            <p>In a word, to deny the univerſalitie of the merit of Chriſts death, is outragiouſly to diſ<g ref="char:EOLhyphen"/>honour God; as though the author of truth commanded all men to beleeve a falſhood.</p>
+            <p>And the better to diſcern the giddineſſe of this ſpirit, it is to be noted, how that as on the
+<pb n="23" facs="tcp:172845:13"/>one ſide this doctrine doth forbid to beleeve that which the Scripture doth affirm as moſt true: ſo on the other ſide doth it command every one to beleeve that he is elected unto life, although he be a reprobate in effect; and that he cannot looſe his faith, being once had, for any ſin whatſoever he doth commit; which the Scripture doth deny as a thing moſt falſe in like termes.</p>
+            <p>If then that this Doctrine which denyeth that Chriſt dyed for all, bereaveth the afflict<g ref="char:EOLhyphen"/>ed of all conſolation; the other point which denyeth that a man may fal away from grace and faith, doth clean overthrow the Miniſte<g ref="char:EOLhyphen"/>ry of preaching, which conſiſteth in exhorta<g ref="char:EOLhyphen"/>tions by promiſes and threatnings; which can no longer be a means to do any good work, onely by the immediate operation of the holy Ghoſt, as it hath been above ſaid.</p>
+            <p>So neither is there to be found in all the Scripture any one promiſe of ſuch perſeve<g ref="char:EOLhyphen"/>rance in faith as theſe men intimate: Seeing that all exhortations, whereof the Scriptures are full, do directly oppugne this pretended promiſe. They admoniſh the faithfull that they take heed they do not fall, of hardning their hearts, of receiving the grace of God in vain, of falling from their ſtedfaſtneſſe. And
+<pb n="24" facs="tcp:172845:14"/>yet the imaginary promiſe of the Presbyteri<g ref="char:EOLhyphen"/>ans doth declare, that they cannot fall, that they cannot harden their hearts, that they cannot have received the grace in vain, and that they cannot fall from their ſtedfaſtneſſe. By which means the admonitions that de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nce the danger, and beget fear, do over<g ref="char:EOLhyphen"/>throw the promiſe which ſaith, there is no fear of danger, nor cauſe of fear. If it be not, t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Presbyterians will make us beleeve, that the faithfull who fear a danger that can no more happen, than that God ſhould lye, are more fooliſh than certain melancholy perſons who fear that the heavens would fall, which notwithſtanding ſhall one day paſſe away.</p>
+            <p>For <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mme of all, it will come unto that paſſe, to obſerve that it were better to addreſſe our admonitions unto God; for him to finiſh his will in men, to convert, correct, and com<g ref="char:EOLhyphen"/>fort them by his omnipotency, which no per<g ref="char:EOLhyphen"/>ſon is able to reſiſt. And then it is his fault ſo many men continue faithleſſe, profane, and deſperate; becauſe it is he that refuſeth to give or taketh away the grace neceſſary as well to their converſion, as to their repentance, and perſeverance in the faith.</p>
+            <p>If any of theſe Presbyterians were ſick of the Palſey, and preſented himſelf to ſome
+<pb n="25" facs="tcp:172845:14"/>Phyſician; who by the means of an exquiſite potion promiſeth him to leave his bed ere long, and go whither he pleaſeth. The other having recovered his health, and the uſe of his arms and legs, would he further binde the Phyſician to carry him upon his ſhoulders from place to place, for the ſparing of his legs, and the nouriſhing of his ſloth? while in the mean time he lyes lazy in his bed, and continueth the exceſſe which brought him to his ſickneſſe. And yet notwithſtanding theſe men are not content, that God ſhould furniſh them with neceſſary and ſufficient grace, to preſerve and keep them from all temptations of the world, and the fleſh, and to continue in that faith, and thereby to conſerve this grace in watching and praying; but they will alſo have God immediately, and irreſiſtably to produce all theſe things in them.</p>
+            <p>What remains then but to ſay, that God himſelf doth beleeve, doth repent, and perſe<g ref="char:EOLhyphen"/>vere in well-doing in man. Even as <hi>Servetus</hi> ſaid, that the fire doth not burn, that the Sun ſhineth not, bread nouriſheth not, but onely that God doth all theſe things immediately in his creatures, having given them theſe pro<g ref="char:EOLhyphen"/>perties.</p>
+            <p>The preaching of the Word being thus
+<pb n="26" facs="tcp:172845:15"/>made of none effect by the Presbyterian do<g ref="char:EOLhyphen"/>ctrine, there will remain no leſſe uſe and profit in the Sacrament of Baptiſme, and the Lords Supper, unleſſe it be that the Miniſters them<g ref="char:EOLhyphen"/>ſelves in adminiſtring thereof do deſtroy this unhappie doctrine: for to every perſon to whom they baptize, they apply the promiſes of the Covenant of grace, that they nothing belong unto the reprobates of the world. The Euchariſt is given to all, with aſſurance that Chriſt dyed for all thoſe who do receive it; although their doctrine affirm, that he dyed not for thoſe who receive him unworthily unto their own condemnation, the number of whom is very great in the reformed Church.</p>
+            <p>What then remains? Even their prayers themſelves, the exerciſe whereof is common both to Paſtor and the flock; cannot be of any profit either to the one, or to the other, ſeeing that all are either elect or reprobate. They for their part obtain nothing for the means, if that God have written their names in the book of life from all eternity, without having any more regard to their prayers, than unto their faith, and that it is impoſſible for them to be razed out. And as for theſe, they are no more able to get themſelves regiſtred in by
+<pb n="27" facs="tcp:172845:15"/>their prayers, than to undo the immutable and unchangeable decree of God.</p>
+            <p>So that by this triall of the practiſe, each one may ſee what eſteeme we ought to have of that opinion, which reſiſteth the conver<g ref="char:EOLhyphen"/>ſion of Infidels, the amendment of the ſcan<g ref="char:EOLhyphen"/>dalous, and conſolation of the afflicted. Which makes the preaching of the Word to be of none effect, and quite overthroweth the uſe of the Sacraments, and exerciſe of prayers. And in a word, over-turneth the foun<g ref="char:EOLhyphen"/>dation of the Miniſtery, that con<g ref="char:EOLhyphen"/>ſiſteth in ſound Doctrine, and good Diſcipline.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
